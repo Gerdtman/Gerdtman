@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Gerdtman
-- 🌱 I’m currently learning C#, Java, Kotlin!
-- 📫 How to reach me sgerdtman@gmail.com
+Junior developer profficient in C#, Typescript and Javascript frameworks / libraries. 
 
